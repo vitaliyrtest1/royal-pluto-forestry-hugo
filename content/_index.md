@@ -145,7 +145,8 @@ seo:
       value: The preview of the Azimuth theme
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: >-
+        https://cdn.forestry.io/res2/I3DvTEdLawOwGhAfjvwZF9di5-kQth1eoafUMIFl3vU/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDVDBVeGJFRnZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMjBk/N2ZlNDI1NjkxZjlm/NjRiNTU5YjQ0NDg5/YjM1ZTUwNjZlZDNj/OC9yZXZpZXcyLmpw/Zw
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
