@@ -9,7 +9,11 @@ seo:
   title: lorem-ipsum
   description: lorem-ipsum
   robots: []
-  extra: []
+  extra:
+    - name: lorem-ipsum
+      value: lorem-ipsum
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 ---
