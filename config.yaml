@@ -130,6 +130,7 @@ params:
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>.
+  domain: 'https://royal-pluto-forestry-hugo-23909.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:
