@@ -143,7 +143,7 @@ seo:
       keyName: property
     - name: 'og:image'
       value: >-
-        https://cdn.forestry.io/res2/lc43eTx7MtUsYvOisqledvqJlv2FY5bfUYq3sOgiU0Q/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDVDAweGJFRnZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMGMy/ZTY4NTQzOWFlZjE4/YzUzNDI3YTZjNDg1/YzkyNDk2MzRiNDQw/Ni9yZXZpZXczLmpw/Zw
+        https://cdn.forestry.io/res2/MNorcekXcy2eIsznSfrGnqpH1PxWUQCH5vKgcq6dBTU/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUkdSV2JFRnZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tNjk0/OWNjMjg1Yzk4M2I3/YzJlY2VmZTFlMGQ4/ZjZiNjJkNTFkYjJl/Mi8xLnBuZw
       keyName: property
       relativeUrl: false
     - name: 'twitter:card'
