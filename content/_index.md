@@ -155,5 +155,9 @@ seo:
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
+    - name: 'og:title'
+      value: Stackbit Azimuth Theme1
+      keyName: property
+      relativeUrl: true
 layout: landing
 ---
