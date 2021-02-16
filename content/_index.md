@@ -142,10 +142,9 @@ seo:
       value: The preview of the Azimuth theme
       keyName: property
     - name: 'og:image'
-      value: >-
-        https://cdn.forestry.io/res2/MNorcekXcy2eIsznSfrGnqpH1PxWUQCH5vKgcq6dBTU/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUkdSV2JFRnZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tNjk0/OWNjMjg1Yzk4M2I3/YzJlY2VmZTFlMGQ4/ZjZiNjJkNTFkYjJl/Mi8xLnBuZw
+      value: /images/good-sycamore.png
       keyName: property
-      relativeUrl: false
+      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
