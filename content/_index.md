@@ -132,7 +132,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Stackbit Azimuth Theme
+  title: Stackbit Azimuth Theme!
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
