@@ -156,7 +156,7 @@ seo:
       value: images/hero.png
       relativeUrl: true
     - name: 'og:title'
-      value: Stackbit Azimuth Theme1
+      value: Stackbit Azimuth Theme12
       keyName: property
       relativeUrl: true
 layout: landing
